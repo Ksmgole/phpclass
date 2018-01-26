@@ -6,9 +6,9 @@
     $mysql = mysqli_connect("localhost","root","root","test");
     if(isset ($submit))
     {
-        $mysqli_query($mysql,'insert into users (firstname, lastname) VALUES ("$fn", "$ln")');
         echo "inserted";
-
+        mysqli_query($mysql,"insert into users (firstname, lastname) VALUES ('$fn','$ln')");
+        echo "uploaded";
 
     }
 

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="372833fd-6062-4e2b-82d0-51b37c8c208d" name="Default" comment="" />
+    <list default="true" id="372833fd-6062-4e2b-82d0-51b37c8c208d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/register.php" afterPath="$PROJECT_DIR$/register.php" />
+      <change beforePath="$PROJECT_DIR$/registrationForm.php" afterPath="$PROJECT_DIR$/registrationForm.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/registrationForm.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
-              <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+              <caret line="23" column="65" lean-forward="false" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -27,20 +32,21 @@
       <file leaf-file-name="register.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="162">
+              <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
               <folding>
-                <marker date="1516938827736" expanded="true" signature="224:272" ph="insert into users... " />
-                <marker date="1516938827736" expanded="true" signature="224:273" ph="insert into users... " />
-                <marker date="1516938827736" expanded="true" signature="224:274" ph="insert into users... " />
-                <marker date="1516938827736" expanded="true" signature="224:285" ph="insert into users... " />
-                <marker date="1516938827736" expanded="true" signature="224:312" ph="insert into users... " />
+                <marker date="1516953828299" expanded="true" signature="248:296" ph="insert into users... " />
+                <marker date="1516953828299" expanded="true" signature="248:308" ph="insert into users... " />
+                <marker date="1516953828299" expanded="true" signature="312:320" ph="insert into users... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +77,7 @@
     <option name="width" value="1269" />
     <option name="height" value="463" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -155,7 +162,7 @@
       <workItem from="1515908337969" duration="6334000" />
       <workItem from="1516513823924" duration="1714000" />
       <workItem from="1516936074422" duration="2759000" />
-      <workItem from="1516952239904" duration="603000" />
+      <workItem from="1516952239904" duration="1591000" />
     </task>
     <servers />
   </component>
@@ -165,7 +172,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17446000" />
+    <option name="totallyTimeSpent" value="18434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1433" y="-2" width="1853" height="1082" extended-state="6" />
@@ -176,7 +183,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6145038" sideWeight="0.5030146" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17823835" sideWeight="0.49698535" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -218,11 +225,9 @@
         <state relative-caret-position="324">
           <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
-            <marker date="1516938827736" expanded="true" signature="224:272" ph="insert into users... " />
-            <marker date="1516938827736" expanded="true" signature="224:273" ph="insert into users... " />
-            <marker date="1516938827736" expanded="true" signature="224:274" ph="insert into users... " />
-            <marker date="1516938827736" expanded="true" signature="224:285" ph="insert into users... " />
-            <marker date="1516938827736" expanded="true" signature="224:312" ph="insert into users... " />
+            <marker date="1516953828299" expanded="true" signature="248:296" ph="insert into users... " />
+            <marker date="1516953828299" expanded="true" signature="248:308" ph="insert into users... " />
+            <marker date="1516953828299" expanded="true" signature="312:320" ph="insert into users... " />
           </folding>
         </state>
       </provider>
@@ -312,14 +317,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registrationForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fibotest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -341,16 +338,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/registrationForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="65" lean-forward="false" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="162">
+          <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
           <folding>
-            <marker date="1516938827736" expanded="true" signature="224:272" ph="insert into users... " />
-            <marker date="1516938827736" expanded="true" signature="224:273" ph="insert into users... " />
-            <marker date="1516938827736" expanded="true" signature="224:274" ph="insert into users... " />
-            <marker date="1516938827736" expanded="true" signature="224:285" ph="insert into users... " />
-            <marker date="1516938827736" expanded="true" signature="224:312" ph="insert into users... " />
+            <marker date="1516953828299" expanded="true" signature="248:296" ph="insert into users... " />
+            <marker date="1516953828299" expanded="true" signature="248:308" ph="insert into users... " />
+            <marker date="1516953828299" expanded="true" signature="312:320" ph="insert into users... " />
           </folding>
         </state>
       </provider>
