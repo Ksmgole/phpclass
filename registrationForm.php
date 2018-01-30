@@ -6,17 +6,17 @@
 
 </head>
 <body>
-<form action="register.php" method="post">
+<form action="registrationFormWithClass.php" method="post">
     <label style="font-size:40px;font-style: bold;">Please enter the details</label>
     <table>
         <tr>
             <td>
-                Firstname: <input type="text" name="Firstname"><br>
+                Firstname: <input type="text" name="firstname"><br>
             </td>
         </tr>
         <tr>
             <td>
-                Last name: <input type="text" name="Lastname"><br>
+                Last name: <input type="text" name="lastname"><br>
             </td>
         </tr>
         <tr>
